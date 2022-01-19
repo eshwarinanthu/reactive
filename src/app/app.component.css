@@ -1,0 +1,17 @@
+.er{
+    color: red;
+}
+.str{
+    margin: 1px;
+    background-color: rgb(194, 218, 240);
+    text-align: center;
+    border-style: double;
+    margin-left: 350px;
+    margin-top: 70px;
+    width:600px;
+    height: 500px;
+}
+.e{
+    color: rgb(214, 137, 20);
+    text-align: center;
+}
